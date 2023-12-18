@@ -1,0 +1,35 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "3d-force-graph": "^1.71.4",
+    "animate.css": "^4.1.1",
+    "axios": "^0.21.1",
+    "d3": "^3.5.17",
+    "echarts": "^5.4.2",
+    "el-table-infinite-scroll": "^3.0.1",
+    "element-ui": "^2.15.0",
+    "less-loader": "^11.1.0",
+    "neo4j-driver": "^5.8.0",
+    "vue": "^2.6.11",
+    "vue-neo4j": "^0.4.11",
+    "vue-router": "^3.2.0",
+    "vuesax": "^4.0.1-alpha.25",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
